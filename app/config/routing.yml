@@ -1,0 +1,4 @@
+spike_front:
+    resource: "@SpikeFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
