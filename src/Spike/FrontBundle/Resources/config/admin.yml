@@ -1,0 +1,18 @@
+#sonata_admin:
+#    title:      Spike Admin
+#    title_logo: bundles/acmedemo/img/fancy_acme_logo.png
+
+services:
+#    sonata.admin.user:
+#        class: Spike\FrontBundle\Controller\Admin\UserAdmin
+#        tags:
+#            - name: sonata.admin
+#              manager_type: orm
+#              group: "Security"
+#              label: "User"
+#        arguments:
+#            - ~
+#            - Spike\FrontBundle\Entity\User
+#            - ~
+#        calls:
+#            - [ setTranslationDomain, [SpikeFrontBundle]]
